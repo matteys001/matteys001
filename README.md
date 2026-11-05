@@ -59,25 +59,42 @@ I am exploring and building the next generation of intelligent enterprise platfo
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### CreatorOS — The Intelligence Operating System for Content Creators
+A selection of practical AI products and enterprise intelligence solutions. These projects demonstrate how I translate complex workflows into governed, usable AI capabilities.
 
-**YouTube Creator Intelligence for Claude**
+### 1. Writing Intelligence Studio
+**An approved solution published in the Anthropic directory.**
 
-CreatorOS connects Claude to a creator's own YouTube channel and turns channel and video analytics into evidence-based insights — helping creators understand performance, diagnose bottlenecks, identify momentum, learn what their audience is asking, and make more informed publishing decisions.
+A Claude-powered editorial workspace that brings together research, drafting, critical challenge, source verification, tracked editing and publication readiness. It is designed to operate like a structured editorial team while keeping the author in control of every change.
 
-- **Channel intelligence:** Performance health checks, growth trends, and prioritized recommendations.
-- **Video diagnostics:** Retention, traffic sources, search discovery, and fair comparisons across equivalent publishing windows.
-- **Audience insights:** Viewer questions and engagement signals from channel comments.
-- **Publishing intelligence:** Evidence-based timing estimates using the creator's own historical performance.
-- **Privacy-first architecture:** Local-first execution, read-only YouTube access, OAuth 2.0, and locally stored analytics history.
+- **Editorial workflow:** brief, outline, draft, challenge, edit, verify, review and publish.
+- **Evidence-led writing:** source-linked citations, unsupported-claim flags and originality checks.
+- **Quality and governance:** tracked changes, readability analysis and author approval at each stage.
 
-YouTube is the first integration in a broader creator-growth intelligence vision. CreatorOS is built as an MCP-powered experience for Claude, with a local Claude Desktop extension and plugin workflows.
+[Explore Writing Intelligence Studio](https://github.com/matteys001/writing-intelligence-studio) · [Anthropic Directory](https://claude.ai/directory)
 
-<p align="left">
-  <a href="https://github.com/matteys001/youtube-claude-mcp"><img src="https://img.shields.io/badge/Explore_CreatorOS-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore CreatorOS on GitHub" /></a>
-</p>
+### 2. Growth Intelligence Platform
+**Enterprise Growth & Decision Intelligence for Claude.**
+
+An AI-native platform that turns business-language questions into evidence-backed analysis, decisions and governed next steps across growth, sales, accounts, customers, competition, marketing, finance and operations.
+
+- **Cross-domain intelligence:** connect enterprise context, business memory and specialist analysis.
+- **Executive decision support:** growth opportunities, account strategy, deal health, forecasts and command-center views.
+- **Governed actions:** traceable evidence, confidence and approval-aware recommendations.
+
+[Explore Growth Intelligence Platform](https://github.com/matteys001/growth-intelligence-platform)
+
+### 3. CreatorOS — YouTube Creator Intelligence for Claude
+**An MCP-powered, read-only YouTube intelligence solution.**
+
+Connects Claude to a creator's own YouTube channel and turns channel and video analytics into evidence-based insights to diagnose performance, understand audience signals and improve publishing decisions.
+
+- **Channel and video diagnostics:** performance trends, retention, traffic sources and format-aware comparisons.
+- **Audience intelligence:** discover questions and themes in viewer engagement.
+- **Privacy-first design:** local execution, OAuth 2.0, read-only analytics access and locally stored history.
+
+[Explore CreatorOS on GitHub](https://github.com/matteys001/youtube-claude-mcp)
 
 ---
 
