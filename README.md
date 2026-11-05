@@ -1,6 +1,13 @@
 # Sumit Mattey
 ### Enterprise Technology Leader · AI Architect · Innovation Builder
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/sumitmattey/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/sumit.mattey/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@AIGuy-2050"><img src="https://img.shields.io/badge/YouTube-AI_Guy_2050-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://medium.com/doctorsalesforce"><img src="https://img.shields.io/badge/Medium-Read_Blog-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog" /></a>
+</p>
+
 Building intelligent enterprise platforms at the intersection of **AI, enterprise architecture, automation, and business transformation**.
 
 I am a technology leader with 22+ years of experience across the Salesforce ecosystem, enterprise applications, digital transformation, and technology strategy.
@@ -67,7 +74,6 @@ I believe the future belongs to those who combine deep domain expertise, enginee
 
 - **GitHub:** [@matteys001](https://github.com/matteys001)
 - **Email:** [sumit@matteys.com](mailto:sumit@matteys.com)
-- **YouTube:** [AI Guy 2050](https://www.youtube.com/@AIGuy-2050)
 
 *Always interested in meaningful conversations about enterprise transformation, AI architecture, agentic systems, and technology innovation.*
 
