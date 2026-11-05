@@ -27,7 +27,8 @@ I work at the intersection of **business strategy, enterprise technology and AI 
 
 Today, my focus is on building AI-native systems that move beyond chat and copilots: systems that understand context, reason across business domains, surface evidence and support governed action.
 
-<table>
+<div align="center">
+<table width="78%">
 <tr>
 <td width="33%" align="center">
 <strong>22+ YEARS</strong><br>
@@ -43,6 +44,7 @@ Today, my focus is on building AI-native systems that move beyond chat and copil
 </td>
 </tr>
 </table>
+</div>
 
 ## SELECTED WORK
 
