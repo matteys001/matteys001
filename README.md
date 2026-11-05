@@ -65,7 +65,7 @@ A Claude-powered editorial workspace that functions like a complete editorial te
 - Originality and readability analysis
 - Tracked changes with author approval
 
-<p><a href="https://github.com/matteys001/writing-intelligence-studio"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Writing Intelligence Studio"></a></p>
+<p align="center"><a href="https://github.com/matteys001/writing-intelligence-studio"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Writing Intelligence Studio"></a></p>
 </td>
 <td width="50%" valign="top">
 
@@ -80,7 +80,7 @@ An AI-native platform that turns business-language questions into evidence-backe
 - Executive decision support and dashboards
 - Traceable evidence and approval-aware actions
 
-<p><a href="https://github.com/matteys001/growth-intelligence-platform"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Growth Intelligence Platform"></a></p>
+<p align="center"><a href="https://github.com/matteys001/growth-intelligence-platform"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Growth Intelligence Platform"></a></p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ Connects Claude to a creator's own YouTube channel and turns analytics into prac
 - Local-first execution, OAuth 2.0 and read-only access
 - Historical snapshots to evaluate recommendations
 
-<p><a href="https://github.com/matteys001/youtube-claude-mcp"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore CreatorOS"></a></p>
+<p align="center"><a href="https://github.com/matteys001/youtube-claude-mcp"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore CreatorOS"></a></p>
 </td>
 </tr>
 </table>
