@@ -1,14 +1,16 @@
 <p align="center">
-  <img src="assets/profile-banner.jpg" alt="Sumit Mattey — Technology Transformation, Enterprise Architecture and Applied AI" width="100%">
+  <img src="assets/profile-banner.jpg" alt="Sumit Mattey — Enterprise Technology and AI Transformation" width="100%">
 </p>
 
 <div align="center">
 
 # SUMIT MATTEY
 
-### TECHNOLOGY TRANSFORMATION · ENTERPRISE ARCHITECTURE · APPLIED AI
+### ENTERPRISE TECHNOLOGY & AI TRANSFORMATION LEADER
 
-**I turn complex enterprise problems into intelligent products, platforms and measurable business outcomes.**
+**Enterprise Architecture · Intelligent Platforms · Digital Innovation**
+
+I connect business strategy with technology execution — modernizing enterprise capabilities and building intelligent systems that deliver measurable business outcomes.
 
 <p>
   <a href="https://www.linkedin.com/in/sumitmattey/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -23,9 +25,9 @@
 
 ## THE BIG PICTURE
 
-I work at the intersection of **business strategy, enterprise technology and AI innovation**. Over 22+ years in technology and consulting, I have led transformation, enterprise architecture, global delivery and Salesforce ecosystem initiatives — translating strategic priorities into platforms that scale.
+I am an enterprise technology leader with **22+ years of experience** across technology strategy, enterprise architecture, large-scale transformation and digital innovation. My work focuses on translating complex business priorities into scalable platforms, connected operating capabilities and measurable outcomes.
 
-Today, my focus is on building AI-native systems that move beyond chat and copilots: systems that understand context, reason across business domains, surface evidence and support governed action.
+I work across the enterprise technology landscape — applications, integration, data, cloud, automation and AI. I am particularly interested in moving organizations beyond disconnected systems and isolated copilots towards **intelligent, context-aware and governed enterprise ecosystems**.
 
 <div align="center">
 <table width="78%">
@@ -40,15 +42,92 @@ Today, my focus is on building AI-native systems that move beyond chat and copil
 </td>
 <td width="33%" align="center">
 <strong>BUILDER MINDSET</strong><br>
-<sub>From concept to working product</sub>
+<sub>From strategy to working products</sub>
 </td>
 </tr>
 </table>
 </div>
 
+## ENTERPRISE TECHNOLOGY DOMAINS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / ENTERPRISE ARCHITECTURE & STRATEGY
+
+- Enterprise architecture and technology roadmaps
+- Business capability and operating model design
+- Architecture governance and technology standards
+- Application portfolio strategy and rationalization
+- Modernization and target-state architecture
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / ENTERPRISE TRANSFORMATION
+
+- Global transformation and program leadership
+- Business process and operating model modernization
+- Platform consolidation and enterprise migrations
+- Transformation governance and execution
+- Business outcomes, adoption and value realization
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 / AI & AGENTIC SYSTEMS
+
+- Agentic AI and AI-native applications
+- Large language models and Model Context Protocol
+- Enterprise knowledge and retrieval systems
+- Intelligent workflow orchestration
+- Human-in-the-loop controls and responsible AI
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / ENTERPRISE PLATFORMS & INTEGRATION
+
+- Enterprise application ecosystems
+- CRM, ERP, HCM and business platforms
+- API-led architecture and integration
+- Salesforce, Workday, MuleSoft and CPQ
+- Identity, access and secure connectivity
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 05 / DATA & DECISION INTELLIGENCE
+
+- Enterprise data and analytics architecture
+- Semantic layers and knowledge models
+- Business intelligence and decision support
+- Organizational Network Analysis (ONA)
+- Evidence-led insights and performance intelligence
+
+</td>
+<td width="50%" valign="top">
+
+### 06 / TECHNOLOGY GOVERNANCE & OPERATIONS
+
+- Technology portfolio and investment governance
+- IT operating models and service management
+- Security, identity and access governance
+- Operational resilience and risk management
+- Cost optimization and value measurement
+
+</td>
+</tr>
+</table>
+
 ## SELECTED WORK
 
-Three products. Three different problem spaces. One consistent design principle: make intelligence useful, explainable and actionable.
+I build practical AI products across different problem spaces. Each project explores how connected data, intelligent workflows and evidence-led reasoning can improve the way people work and make decisions.
 
 <table>
 <tr>
@@ -58,7 +137,7 @@ Three products. Three different problem spaces. One consistent design principle:
 
 **An approved solution published in the Anthropic directory.**
 
-A Claude-powered editorial workspace that functions like a complete editorial team — from research and structured drafting to challenge, verification, tracked editing and publication readiness.
+A Claude-powered editorial workspace that supports the end-to-end writing lifecycle — from research and structured drafting to challenge, verification, tracked editing and publication readiness.
 
 - Multi-stage editorial workflow
 - Evidence-linked citations and fact-checking
@@ -102,66 +181,52 @@ Connects Claude to a creator's own YouTube channel and turns analytics into prac
 </tr>
 </table>
 
-## WHAT I FOCUS ON
+## TECHNOLOGY LANDSCAPE
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**AI & INTELLIGENCE**
 
-**ENTERPRISE TRANSFORMATION**
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
+<img src="https://img.shields.io/badge/Agentic_AI-555555?style=flat-square" alt="Agentic AI">
+<img src="https://img.shields.io/badge/MCP-555555?style=flat-square" alt="MCP">
+<img src="https://img.shields.io/badge/LLMs-555555?style=flat-square" alt="LLMs">
+</p>
 
-- Enterprise architecture & technology strategy
-- Salesforce, Workday, MuleSoft & CPQ
-- Platform modernization and integration
-- Global operating models and delivery
-- Customer outcomes and business growth
-
-</td>
-<td width="50%" valign="top">
-
-**AI & INTELLIGENT SYSTEMS**
-
-- Agentic AI and AI-native applications
-- Model Context Protocol (MCP)
-- Enterprise and decision intelligence
-- Knowledge systems, RAG and semantic layers
-- Secure integrations, identity and governance
-
-</td>
-</tr>
-</table>
-
-## TECHNOLOGY TOOLKIT
+**ENTERPRISE PLATFORMS**
 
 <p>
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce">
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+<img src="https://img.shields.io/badge/Workday-0067B9?style=flat-square" alt="Workday">
+<img src="https://img.shields.io/badge/MuleSoft-00A1DF?style=flat-square" alt="MuleSoft">
+<img src="https://img.shields.io/badge/CPQ-555555?style=flat-square" alt="CPQ">
+</p>
+
+**DATA, INTEGRATION & ENGINEERING**
+
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/MCP-555555?style=flat-square" alt="MCP">
-<img src="https://img.shields.io/badge/Workday-0067B9?style=flat-square" alt="Workday">
-<img src="https://img.shields.io/badge/MuleSoft-00A1DF?style=flat-square" alt="MuleSoft">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/OAuth_2.0-3C3C3D?style=flat-square" alt="OAuth 2.0">
 <img src="https://img.shields.io/badge/REST_APIs-4B5563?style=flat-square" alt="REST APIs">
+<img src="https://img.shields.io/badge/OAuth_2.0-3C3C3D?style=flat-square" alt="OAuth 2.0">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </p>
 
 ## BEYOND THE ENTERPRISE
 
-I also run **AI Guy 2050**, where I explore practical AI concepts, emerging technologies and educational content that helps the next generation understand the world being built around them.
+I also run **AI Guy 2050**, an educational initiative exploring practical AI concepts, emerging technologies and ideas that help the next generation understand the world being shaped by technology.
 
-<p>
+<p align="center">
 <a href="https://www.youtube.com/@AIGuy-2050"><img src="https://img.shields.io/badge/WATCH_AI_GUY_2050-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch AI Guy 2050"></a>
 <a href="https://medium.com/doctorsalesforce"><img src="https://img.shields.io/badge/READ_MY_WRITING-111111?style=for-the-badge&logo=medium&logoColor=white" alt="Read my writing"></a>
 </p>
 
 ## HOW I THINK
 
-> Technology should not simply digitize existing processes. It should fundamentally change what businesses and people can achieve.
+> Technology should not simply digitize existing processes. It should create new enterprise capabilities, improve decisions and expand what businesses can achieve.
 
-**Think strategically. Architect intelligently. Build relentlessly.**
+**Think strategically. Architect intelligently. Transform continuously.**
 
 ---
 
@@ -169,7 +234,7 @@ I also run **AI Guy 2050**, where I explore practical AI concepts, emerging tech
 
 **OPEN TO MEANINGFUL CONVERSATIONS**
 
-Enterprise transformation · AI architecture · Agentic systems · Product innovation
+Enterprise architecture · Technology transformation · AI systems · Intelligent platforms
 
 [LinkedIn](https://www.linkedin.com/in/sumitmattey/) &nbsp;·&nbsp; [GitHub](https://github.com/matteys001) &nbsp;·&nbsp; [Email](mailto:sumit@matteys.com)
 
