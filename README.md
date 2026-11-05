@@ -57,6 +57,30 @@ I am exploring and building the next generation of intelligent enterprise platfo
 - **MCP Ecosystems** — creating secure, extensible connections between AI assistants and enterprise platforms.
 - **Business Intelligence** — translating operational and relationship data into actionable decisions.
 
+---
+
+## Featured Project
+
+### CreatorOS — The Intelligence Operating System for Content Creators
+
+**YouTube Creator Intelligence for Claude**
+
+CreatorOS connects Claude to a creator's own YouTube channel and turns channel and video analytics into evidence-based insights — helping creators understand performance, diagnose bottlenecks, identify momentum, learn what their audience is asking, and make more informed publishing decisions.
+
+- **Channel intelligence:** Performance health checks, growth trends, and prioritized recommendations.
+- **Video diagnostics:** Retention, traffic sources, search discovery, and fair comparisons across equivalent publishing windows.
+- **Audience insights:** Viewer questions and engagement signals from channel comments.
+- **Publishing intelligence:** Evidence-based timing estimates using the creator's own historical performance.
+- **Privacy-first architecture:** Local-first execution, read-only YouTube access, OAuth 2.0, and locally stored analytics history.
+
+YouTube is the first integration in a broader creator-growth intelligence vision. CreatorOS is built as an MCP-powered experience for Claude, with a local Claude Desktop extension and plugin workflows.
+
+<p align="left">
+  <a href="https://github.com/matteys001/youtube-claude-mcp"><img src="https://img.shields.io/badge/Explore_CreatorOS-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore CreatorOS on GitHub" /></a>
+</p>
+
+---
+
 ## Building Beyond the Enterprise
 
 I enjoy turning ideas into useful products, experiments, and developer tools — particularly where AI can simplify complex work and make specialist capabilities more accessible.
