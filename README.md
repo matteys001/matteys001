@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Sumit Mattey — Technology Transformation, Enterprise Architecture and Applied AI" width="100%">
+  <img src="assets/profile-banner.jpg" alt="Sumit Mattey — Technology Transformation, Enterprise Architecture and Applied AI" width="100%">
 </p>
 
 <div align="center">
