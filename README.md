@@ -1,5 +1,5 @@
 # Sumit Mattey
-### Enterprise Technology Leader · AI Architect · Innovation Builder
+### Technology & Transformation Leader · Enterprise Architect · AI Innovation Builder
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sumitmattey/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -8,29 +8,36 @@
   <a href="https://medium.com/doctorsalesforce"><img src="https://img.shields.io/badge/Medium-Read_Blog-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog" /></a>
 </p>
 
-Building intelligent enterprise platforms at the intersection of **AI, enterprise architecture, automation, and business transformation**.
+I build and lead technology transformations that connect **business strategy, enterprise platforms, and emerging AI capabilities**.
 
-I am a technology leader with 22+ years of experience across the Salesforce ecosystem, enterprise applications, digital transformation, and technology strategy.
+With 22+ years across IT, consulting, enterprise architecture, and the Salesforce ecosystem, my experience spans technology strategy, global delivery, customer success, platform modernization, and business growth. I enjoy working at the intersection of executive priorities and engineering execution — turning complex business challenges into scalable, outcome-led solutions.
 
-Currently a **Vice President at Genpact**, I focus on enterprise technology transformation, platform modernization, AI adoption, and business-aligned innovation.
-
-My focus: turn emerging technology into practical, secure, and scalable business capabilities.
+My leadership approach combines strategic thinking, customer value, strong partnerships, and high-performing teams.
 
 ---
 
-## What I Do
+## Leadership & Expertise
 
-| Enterprise Architecture & Transformation | AI & Agentic Systems |
+| Enterprise Technology & Transformation | AI, Platforms & Innovation |
 |---|---|
-| Enterprise platform strategy and architecture | Agentic AI and autonomous enterprise systems |
-| Salesforce ecosystem and application modernization | Model Context Protocol (MCP) servers and integrations |
-| Workday, MuleSoft, CPQ, and enterprise integrations | AI-powered enterprise intelligence platforms |
-| Global transformation and operating models | AI agents, tools, skills, and knowledge architectures |
-| Platform governance and optimization | Intelligent workflows and human-in-the-loop automation |
+| Enterprise architecture and technology strategy | Agentic AI and AI-native enterprise systems |
+| Salesforce ecosystem and CRM transformation | Model Context Protocol (MCP) servers and integrations |
+| Global program delivery and operating models | AI-powered enterprise intelligence platforms |
+| Customer success and strategic stakeholder engagement | AI agents, tools, skills, and knowledge architectures |
+| Practice leadership and business growth | Intelligent workflows and human-in-the-loop automation |
+| Large-scale team leadership and delivery excellence | Platform governance, security, and optimization |
+
+## Career Highlights
+
+- Led strategic customer engagements and large-scale transformation initiatives, aligning technology capabilities with measurable business outcomes.
+- Recognized with a **Customer Success Award** and achieved **four perfect customer scores** through a focus on delivery quality and customer outcomes.
+- Led Salesforce practice and delivery initiatives across global markets, including ANZ, EMEA, North America, and Singapore.
+- Managed large cross-functional delivery teams, including a 45-member team in a consulting leadership role.
+- Built experience across enterprise architecture, CRM implementations, technology consulting, operational excellence, and business development.
 
 ## Technology Landscape
 
-**Enterprise:** Salesforce · Workday · MuleSoft · CRM · CPQ
+**Enterprise Platforms:** Salesforce · Workday · MuleSoft · CRM · CPQ
 
 **AI & Intelligent Systems:** Claude · OpenAI · Agentic AI · MCP · LLMs · RAG
 
@@ -58,13 +65,17 @@ Through **AI Guy 2050**, I explore practical AI concepts, emerging technologies,
 
 [Visit AI Guy 2050 on YouTube](https://www.youtube.com/@AIGuy-2050)
 
+I also write about Salesforce, enterprise architecture, and technology strategy on Medium.
+
+[Read my articles on Medium](https://medium.com/doctorsalesforce)
+
 ---
 
 ## My Philosophy
 
 > Technology should not simply digitize existing processes. It should fundamentally change what businesses and people can achieve.
 
-I believe the future belongs to those who combine deep domain expertise, engineering discipline, and the ability to build with AI.
+I believe the future belongs to those who combine deep domain expertise, engineering discipline, customer empathy, and the ability to build with AI.
 
 **Think strategically. Architect intelligently. Build relentlessly.**
 
