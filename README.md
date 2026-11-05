@@ -1,134 +1,172 @@
-# Sumit Mattey
-### Technology & Transformation Leader · Enterprise Architect · AI Innovation Builder
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sumitmattey/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/sumit.mattey/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.youtube.com/@AIGuy-2050"><img src="https://img.shields.io/badge/YouTube-AI_Guy_2050-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://medium.com/doctorsalesforce"><img src="https://img.shields.io/badge/Medium-Read_Blog-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog" /></a>
+# SUMIT MATTEY
+
+### TECHNOLOGY TRANSFORMATION · ENTERPRISE ARCHITECTURE · APPLIED AI
+
+**I turn complex enterprise problems into intelligent products, platforms and measurable business outcomes.**
+
+<p>
+  <a href="https://www.linkedin.com/in/sumitmattey/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@AIGuy-2050"><img src="https://img.shields.io/badge/AI_GUY_2050-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="AI Guy 2050"></a>
+  <a href="https://medium.com/doctorsalesforce"><img src="https://img.shields.io/badge/MEDIUM-111111?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="mailto:sumit@matteys.com"><img src="https://img.shields.io/badge/CONTACT-555555?style=flat-square&logo=minutemailer&logoColor=white" alt="Email"></a>
 </p>
 
-I build and lead technology transformations that connect **business strategy, enterprise platforms, and emerging AI capabilities**.
-
-With 22+ years across IT, consulting, enterprise architecture, and the Salesforce ecosystem, my experience spans technology strategy, global delivery, customer success, platform modernization, and business growth. I enjoy working at the intersection of executive priorities and engineering execution — turning complex business challenges into scalable, outcome-led solutions.
-
-My leadership approach combines strategic thinking, customer value, strong partnerships, and high-performing teams.
+</div>
 
 ---
 
-## Leadership & Expertise
+## THE BIG PICTURE
 
-| Enterprise Technology & Transformation | AI, Platforms & Innovation |
-|---|---|
-| Enterprise architecture and technology strategy | Agentic AI and AI-native enterprise systems |
-| Salesforce ecosystem and CRM transformation | Model Context Protocol (MCP) servers and integrations |
-| Global program delivery and operating models | AI-powered enterprise intelligence platforms |
-| Customer success and strategic stakeholder engagement | AI agents, tools, skills, and knowledge architectures |
-| Practice leadership and business growth | Intelligent workflows and human-in-the-loop automation |
-| Large-scale team leadership and delivery excellence | Platform governance, security, and optimization |
+I work at the intersection of **business strategy, enterprise technology and AI innovation**. Over 22+ years in technology and consulting, I have led transformation, enterprise architecture, global delivery and Salesforce ecosystem initiatives — translating strategic priorities into platforms that scale.
 
-## Career Highlights
+Today, my focus is on building AI-native systems that move beyond chat and copilots: systems that understand context, reason across business domains, surface evidence and support governed action.
 
-- Led strategic customer engagements and large-scale transformation initiatives, aligning technology capabilities with measurable business outcomes.
-- Recognized with a **Customer Success Award** and achieved **four perfect customer scores** through a focus on delivery quality and customer outcomes.
-- Led Salesforce practice and delivery initiatives across global markets, including ANZ, EMEA, North America, and Singapore.
-- Managed large cross-functional delivery teams, including a 45-member team in a consulting leadership role.
-- Built experience across enterprise architecture, CRM implementations, technology consulting, operational excellence, and business development.
+<table>
+<tr>
+<td width="33%" align="center">
+<strong>22+ YEARS</strong><br>
+<sub>Technology & transformation</sub>
+</td>
+<td width="33%" align="center">
+<strong>ENTERPRISE SCALE</strong><br>
+<sub>Architecture & platform leadership</sub>
+</td>
+<td width="33%" align="center">
+<strong>BUILDER MINDSET</strong><br>
+<sub>From concept to working product</sub>
+</td>
+</tr>
+</table>
 
-## Technology Landscape
+## SELECTED WORK
 
-**Enterprise Platforms:** Salesforce · Workday · MuleSoft · CRM · CPQ
+Three products. Three different problem spaces. One consistent design principle: make intelligence useful, explainable and actionable.
 
-**AI & Intelligent Systems:** Claude · OpenAI · Agentic AI · MCP · LLMs · RAG
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Engineering & Integration:** Python · JavaScript · TypeScript · REST APIs · OAuth 2.0 · SSO
+### 01 / WRITING INTELLIGENCE STUDIO
 
-**Platforms & Delivery:** GitHub · Git · CI/CD · Cloud Architecture · API Integrations
-
----
-
-## Current Innovation Focus
-
-I am exploring and building the next generation of intelligent enterprise platforms:
-
-- **Autonomous Enterprise IT** — moving from reactive operations towards AI-assisted and autonomous capabilities.
-- **Enterprise Intelligence** — connecting fragmented enterprise data through semantic, contextual, and knowledge layers.
-- **AI-Native Architecture** — designing systems where agents are first-class participants in enterprise workflows.
-- **MCP Ecosystems** — creating secure, extensible connections between AI assistants and enterprise platforms.
-- **Business Intelligence** — translating operational and relationship data into actionable decisions.
-
----
-
-## Featured Projects
-
-A selection of practical AI products and enterprise intelligence solutions. These projects demonstrate how I translate complex workflows into governed, usable AI capabilities.
-
-### 1. Writing Intelligence Studio
 **An approved solution published in the Anthropic directory.**
 
-A Claude-powered editorial workspace that brings together research, drafting, critical challenge, source verification, tracked editing and publication readiness. It is designed to operate like a structured editorial team while keeping the author in control of every change.
+A Claude-powered editorial workspace that functions like a complete editorial team — from research and structured drafting to challenge, verification, tracked editing and publication readiness.
 
-- **Editorial workflow:** brief, outline, draft, challenge, edit, verify, review and publish.
-- **Evidence-led writing:** source-linked citations, unsupported-claim flags and originality checks.
-- **Quality and governance:** tracked changes, readability analysis and author approval at each stage.
+- Multi-stage editorial workflow
+- Evidence-linked citations and fact-checking
+- Originality and readability analysis
+- Tracked changes with author approval
 
-[Explore Writing Intelligence Studio](https://github.com/matteys001/writing-intelligence-studio) · [Anthropic Directory](https://claude.ai/directory)
+<p><a href="https://github.com/matteys001/writing-intelligence-studio"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Writing Intelligence Studio"></a></p>
+</td>
+<td width="50%" valign="top">
 
-### 2. Growth Intelligence Platform
+### 02 / GROWTH INTELLIGENCE PLATFORM
+
 **Enterprise Growth & Decision Intelligence for Claude.**
 
 An AI-native platform that turns business-language questions into evidence-backed analysis, decisions and governed next steps across growth, sales, accounts, customers, competition, marketing, finance and operations.
 
-- **Cross-domain intelligence:** connect enterprise context, business memory and specialist analysis.
-- **Executive decision support:** growth opportunities, account strategy, deal health, forecasts and command-center views.
-- **Governed actions:** traceable evidence, confidence and approval-aware recommendations.
+- Cross-domain enterprise intelligence
+- Specialist agents and business memory
+- Executive decision support and dashboards
+- Traceable evidence and approval-aware actions
 
-[Explore Growth Intelligence Platform](https://github.com/matteys001/growth-intelligence-platform)
+<p><a href="https://github.com/matteys001/growth-intelligence-platform"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Growth Intelligence Platform"></a></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-### 3. CreatorOS — YouTube Creator Intelligence for Claude
-**An MCP-powered, read-only YouTube intelligence solution.**
+### 03 / CREATOROS — YOUTUBE CREATOR INTELLIGENCE
 
-Connects Claude to a creator's own YouTube channel and turns channel and video analytics into evidence-based insights to diagnose performance, understand audience signals and improve publishing decisions.
+**An MCP-powered intelligence layer for YouTube creators using Claude.**
 
-- **Channel and video diagnostics:** performance trends, retention, traffic sources and format-aware comparisons.
-- **Audience intelligence:** discover questions and themes in viewer engagement.
-- **Privacy-first design:** local execution, OAuth 2.0, read-only analytics access and locally stored history.
+Connects Claude to a creator's own YouTube channel and turns analytics into practical insight: channel health, video performance, retention, discovery, audience questions and publishing decisions.
 
-[Explore CreatorOS on GitHub](https://github.com/matteys001/youtube-claude-mcp)
+- Channel and video diagnostics with fair comparisons
+- Audience voice and engagement signals
+- Local-first execution, OAuth 2.0 and read-only access
+- Historical snapshots to evaluate recommendations
 
----
+<p><a href="https://github.com/matteys001/youtube-claude-mcp"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore CreatorOS"></a></p>
+</td>
+</tr>
+</table>
 
-## Building Beyond the Enterprise
+## WHAT I FOCUS ON
 
-I enjoy turning ideas into useful products, experiments, and developer tools — particularly where AI can simplify complex work and make specialist capabilities more accessible.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Through **AI Guy 2050**, I explore practical AI concepts, emerging technologies, and educational content for the next generation.
+**ENTERPRISE TRANSFORMATION**
 
-[Visit AI Guy 2050 on YouTube](https://www.youtube.com/@AIGuy-2050)
+- Enterprise architecture & technology strategy
+- Salesforce, Workday, MuleSoft & CPQ
+- Platform modernization and integration
+- Global operating models and delivery
+- Customer outcomes and business growth
 
-I also write about Salesforce, enterprise architecture, and technology strategy on Medium.
+</td>
+<td width="50%" valign="top">
 
-[Read my articles on Medium](https://medium.com/doctorsalesforce)
+**AI & INTELLIGENT SYSTEMS**
 
----
+- Agentic AI and AI-native applications
+- Model Context Protocol (MCP)
+- Enterprise and decision intelligence
+- Knowledge systems, RAG and semantic layers
+- Secure integrations, identity and governance
 
-## My Philosophy
+</td>
+</tr>
+</table>
+
+## TECHNOLOGY TOOLKIT
+
+<p>
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce">
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/MCP-555555?style=flat-square" alt="MCP">
+<img src="https://img.shields.io/badge/Workday-0067B9?style=flat-square" alt="Workday">
+<img src="https://img.shields.io/badge/MuleSoft-00A1DF?style=flat-square" alt="MuleSoft">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/OAuth_2.0-3C3C3D?style=flat-square" alt="OAuth 2.0">
+<img src="https://img.shields.io/badge/REST_APIs-4B5563?style=flat-square" alt="REST APIs">
+</p>
+
+## BEYOND THE ENTERPRISE
+
+I also run **AI Guy 2050**, where I explore practical AI concepts, emerging technologies and educational content that helps the next generation understand the world being built around them.
+
+<p>
+<a href="https://www.youtube.com/@AIGuy-2050"><img src="https://img.shields.io/badge/WATCH_AI_GUY_2050-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch AI Guy 2050"></a>
+<a href="https://medium.com/doctorsalesforce"><img src="https://img.shields.io/badge/READ_MY_WRITING-111111?style=for-the-badge&logo=medium&logoColor=white" alt="Read my writing"></a>
+</p>
+
+## HOW I THINK
 
 > Technology should not simply digitize existing processes. It should fundamentally change what businesses and people can achieve.
-
-I believe the future belongs to those who combine deep domain expertise, engineering discipline, customer empathy, and the ability to build with AI.
 
 **Think strategically. Architect intelligently. Build relentlessly.**
 
 ---
 
-## Connect
+<div align="center">
 
-- **GitHub:** [@matteys001](https://github.com/matteys001)
-- **Email:** [sumit@matteys.com](mailto:sumit@matteys.com)
+**OPEN TO MEANINGFUL CONVERSATIONS**
 
-*Always interested in meaningful conversations about enterprise transformation, AI architecture, agentic systems, and technology innovation.*
+Enterprise transformation · AI architecture · Agentic systems · Product innovation
 
----
+[LinkedIn](https://www.linkedin.com/in/sumitmattey/) &nbsp;·&nbsp; [GitHub](https://github.com/matteys001) &nbsp;·&nbsp; [Email](mailto:sumit@matteys.com)
 
-<sub>Personal technology portfolio · Continuously evolving</sub>
+<sub>Personal technology portfolio · Built with curiosity and a bias for execution</sub>
+
+</div>
