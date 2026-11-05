@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Sumit Mattey — Technology Transformation, Enterprise Architecture and Applied AI" width="100%">
+</p>
+
 <div align="center">
 
 # SUMIT MATTEY
